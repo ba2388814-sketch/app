@@ -1,0 +1,6 @@
+{
+  "name": "Dark Byte",
+  "description": "DARK BYTE MIC 121 - All-in-one secure web launcher for WhatsApp, Telegram, Instagram, Messenger with in-app browser and file manager.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
